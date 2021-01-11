@@ -1,0 +1,1 @@
+Jocul Spânzurătoarea generează un cuvânt pe care jucătorul va trebui să-l ghicească. Pentru fiecare literă greșită acesta va pierde o viață din cele șase, iar dacă va ramâne fără jocul se va termina. Jucătorul mai are și o opțiune de a i se arăta o literă, dar aceasta are utlizări limitate.
